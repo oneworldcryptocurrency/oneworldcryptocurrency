@@ -1,9 +1,13 @@
-# OneWorldCryptoCurrency
-
-NFT Marketplace Platform
-
-Features:
-- Free Mint
-- All Media NFTs
-- Marketplace
-- Wallet Integration
+oneworldcryptocurrency
+ ├── pages
+ │   ├── index.js
+ │   ├── marketplace.js
+ │   ├── mint.js
+ │   └── profile.js
+ ├── components
+ │   ├── Navbar.js
+ │   ├── NFTCard.js
+ │   └── WalletConnect.js
+ ├── styles
+ ├── package.json
+ └── README.md
