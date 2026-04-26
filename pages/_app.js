@@ -13,3 +13,5 @@ function MyApp({ Component, pageProps }) {
 }
 
 export default MyApp;
+
+// Contributed via automated bounty system
